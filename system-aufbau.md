@@ -62,7 +62,7 @@ Die üblichen Schritte zur Erstellung einer neuen Webseite mit REDAXO wären fol
 * **Benutzer:** In diesem Bereich erstellt der Administrator weitere Benutzer-Logins und steuert deren jeweilige Rechte.
 * **AddOns:** sind besondere Erweiterungen für REDAXO, die man sich wie kleine Applikationen vorstellen muss. Beispiele wären etwa eine Suche, ein Gästebuch oder ein Mechanismus zum Erzeugen von schönen URLs. AddOns können auch weitere Hauptmenüpunkte oder Systemfunktionen hinzufügen.
 * **System:** Auf dieser Seite kann man einige der während der Installation getätigten Einstellungen noch nachträglich ändern, zum Beispiel den Servernamen oder die Error-E-Mail-Adresse. Ebenso kann man aber dort den Startartikel, das Standard-Template oder den "Fehler-Artikel" festlegen, der bei einer fehlerhaft eingegebenen URL angezeigt werden soll. Ein sehr wichtiger Punkt im Systembereich ist die Mehrsprachigkeit für das Frontend - man kann hier unkompliziert beliebig viele Sprachen anlegen. Und ein System-Log informiert über eventuelle Fehler.
-* **Installer:** AddOns lassen sich hier direkt online neu installieren oder bestehende updaten. Selbst der REDAXO-Code selbst kann upgedatet werden.
+* **Installer:** AddOns lassen sich hier direkt online neu installieren oder bestehende updaten. Selbst der REDAXO-Code kann aktualisiert werden.
 
 <a name="standard-addons"></a>
 
